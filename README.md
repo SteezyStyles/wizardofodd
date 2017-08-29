@@ -1,0 +1,2 @@
+# wizardofodd
+This is a face-to-face messaging app that I realize needs a little bit of tweaking and polishing up before I ask people to download and use.  I'd like to make sure the infrastructure is strong and that it is used as a way to help people build trust again.  Especially amongst friends.  Shitty people suck, I hope you aren't one of them.  If so, maybe you can turn down the suck for a bit and help me make a few changes based on feedback from customers/users.
